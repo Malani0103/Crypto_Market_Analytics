@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crypto Market Analytics Dashboard
 
 ## Project Overview
@@ -192,3 +193,6 @@ The scheduler automatically fetches cryptocurrency market data every 5 minutes a
 * Portfolio Tracking
 * Real-Time WebSocket Updates
 
+=======
+# Crypto_Market_Analytics
+>>>>>>> 209bd9e93a8dc7f15b0411e2b00d0e69dbe67339
